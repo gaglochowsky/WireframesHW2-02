@@ -242,6 +242,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(226,163,224,1) 0%, rg
     .bottombar{
         margin-top: -2%;
         margin-bottom: -9%;
+        padding-bottom: -10%;
 
     }
 
@@ -271,8 +272,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(226,163,224,1) 0%, rg
     .para2 p{
         margin-top: -70%;
         margin-bottom: 0%;
-        padding-bottom: -3%;
-        padding-top: 8%;
+        padding-bottom: 0%;
+        padding-top: 5%;
         
     }
 
